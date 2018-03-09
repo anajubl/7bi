@@ -1,0 +1,91 @@
+#mainNav {
+    background-color: white !important;
+    padding-bottom: 0px !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+
+.bgimg {
+    background-image: url("../img/job.jpg");
+    /*background-position: center;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    /*
+    filter:opacity(90%);
+    filter:contrast(150%);
+    */
+    
+/*
+    background-position: center;
+    
+    background-size: cover; 
+*/
+    
+/*    ou background-size: 100%; */
+
+}
+
+.bgimg-contact {
+    background-image: url("../img/dt1.jpg");
+    /*background-position: center;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+/*
+.eq-img {
+  width: 15px;
+  height 15px;
+  
+  
+}
+*/
+
+/*
+div.cent-text {
+    height: 10em;
+    position: relative }
+div.cent-text h3 {
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+    */
+    
+.frases {
+ 
+ border: 1px solid #ddd;
+    border-radius: 2px;
+    width: 450px;
+    height: 300px;
+    
+
+}
+
+/*
+#contact{
+    
+    background-image: url(/img/dt1.jpg) !important;
+    
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+*/
